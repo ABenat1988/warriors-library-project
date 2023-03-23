@@ -20,5 +20,20 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.21"
-  }
+  },
+  "main": "app.js",
+  "bin": {
+    "library-project": "bin/seeds-with-relationships.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ABenat1988/warriors-library-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ABenat1988/warriors-library-project/issues"
+  },
+  "homepage": "https://github.com/ABenat1988/warriors-library-project#readme",
+  "description": ""
 }
